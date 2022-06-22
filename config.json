@@ -7,7 +7,7 @@
   "dt_url": "sekaiacg/device_xiaomi_alioth-TWRP",
   "dt_branch": "android-12.1",
   "dt_remote": "github",
-  "dt_path": "",
+  "dt_path": "device/xiaomi/alioth",
   "device_code": "alioth",
   "use_omin_head": true,
   "use_repair_manifest": false,
