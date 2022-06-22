@@ -1,9 +1,9 @@
 {
-  "twrp_url": "https://github.com/sekaiacg/device_xiaomi_alioth-TWRP",
-  "twrp_branch": "android-12.1",
+  "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp",
+  "twrp_branch": "twrp-12.1",
   "git_username": "sjc74364",
   "git_email": "2918214206@qq.com",
-  "use_own_dt": false,
+  "use_own_dt": true,
   "dt_url": "sekaiacg/device_xiaomi_alioth-TWRP",
   "dt_branch": "android-12.1",
   "dt_remote": "github",
